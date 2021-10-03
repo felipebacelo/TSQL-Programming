@@ -5,6 +5,3 @@
 <a href= "https://img.shields.io/bitbucket/pr-raw/felipebacelo/TSQL-Programming?style=for-the-badge"><img src="https://img.shields.io/bitbucket/pr-raw/felipebacelo/TSQL-Programming?style=for-the-badge"/></a>
 <a href= "https://img.shields.io/bitbucket/issues/felipebacelo/TSQL-Programming?style=for-the-badge"><img src="https://img.shields.io/bitbucket/issues/felipebacelo/TSQL-Programming?style=for-the-badge"/></a>
 </p>
-
-# TSQL-Programming
- 
